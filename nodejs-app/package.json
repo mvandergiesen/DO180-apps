@@ -8,5 +8,8 @@
   "dependencies": {
     "express": "4.x",
     "html-errors": "latest"
+  },
+  "scripts": {
+    "build": true
   }
 }
